@@ -37,3 +37,12 @@ For a first lesson, start with [classification on Fashion-MNIST](3.from_scratch/
 ## Sources
 
 The collection includes adapted tutorials as well as course exercises. Original source links, author credits, and license notices remain in the individual notebooks. The preview above is an existing notebook output, not a separate benchmark.
+
+<details>
+<summary>Full project notes</summary>
+
+<!-- preserved-project-notes:start -->
+# aiffel_2022
+<!-- preserved-project-notes:end -->
+
+</details>
